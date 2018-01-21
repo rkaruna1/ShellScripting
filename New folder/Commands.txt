@@ -1,0 +1,66 @@
+ 1  git config --global user.name. 'rkaruna1'
+    2  git config --global user.name 'rkaruna1'
+    3  git config --global user.name 'rknidhi@gmail.com'
+    4  git clone git@github.com:rkaruna1/ShellScripting.git
+    5  git clone https://github.com/rkaruna1/ShellScripting.git
+    6  ls -ld ShellScripting
+    7  ls -lrta shellscripting
+    8  cd /git
+    9  cd git
+   10  cd .git
+   11  cd /.git
+   12  cd ShellScripting/
+   13  pwd
+   14  ls -lrta
+   15  ls -lrta
+   16  ls lrta
+   17  ls -lrts
+   18  ls -lrta
+   19  pwd
+   20  ls -lrta
+   21  vim TestFile.txt
+   22  git status
+   23  git add TestFile.txt
+   24  get status
+   25  get status
+   26  git status
+   27  clear
+   28  clear
+   29  ls -lrta
+   30*
+   31  git config --global user.name 'rkaruna1'
+   32  git config --global user.email 'rknidhi@gmail.com'
+   33  git commit -m 'myfirstcommit' TestFile.txt
+   34  git status
+   35  git push -u origin master
+   36  git status
+   37  clear
+   38  cd ..
+   39  pwd
+   40  git clone https://gitlab.com/keshavkummari/linux-admin.git
+   41  ls -ld
+   42  ls -ld linux-admin/
+   43  cd linux-admin/
+   44  pwd
+   45  ls -lrta
+   46  touch abc.txt
+   47  git status
+   48  git add abc.txt
+   49  git status
+   50  git commit -m 'secondcommit' abc.txt
+   51  git status
+   52  git push -u origin master
+   53  git history
+   54  git man
+   55  git --help
+   56  get --clear
+   57  git --help clear
+   58  clear
+   59  pwd
+   60  cd ..
+   61  pwd
+   62  ls -ld
+   63  ls -lrta
+   64  ls -lrsta
+   65  hitory
+   66  history
